@@ -15,7 +15,7 @@ UNDEFEATED_SPIDER_3.swf
 │ ├─UNDEFEATED_SPIDER_3.swf    　　    # english version game  
 ├──UndefeatedSpider汉化版.rar   　　   # 游戏压缩包  
 │ ├─UndefeatedSpider.swf   　  　　　    #9.8 MB   # 汉化版游戏 chinese version game  
-├──SaveGame.rar　　　  　   　　　　   # SaveGame 游戏存档  
+├──SaveGame.zip　　　  　   　　　　   # SaveGame 游戏存档  
 
 ### english version contrast chinese version 英文版汉化版比较
 english version new and have 4 pages profession  
